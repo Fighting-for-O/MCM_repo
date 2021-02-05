@@ -1,5 +1,11 @@
 # 参考资料
 
+
+
+
+
+
+
 ##  生长与生长机理
 
 ###  营养
@@ -63,3 +69,48 @@
 + **hydrophilic** 亲水的
 + **hydrophobic** 疏水的
 
+##  木腐菌
+
+[木腐菌](https://en.wikipedia.org/wiki/Wood-decay_fungus)
+
++ 三种不同的腐蚀方式
+
++ 木腐菌获取营养的方式
+
++ > Excessive moisture above the [fibre saturation point](https://en.wikipedia.org/wiki/Fibre_saturation_point) in wood is required for fungal colonization and proliferation.
+
+#  微分方程模型
+
+
+
++ 有趣的点
+
+## [Lotka–Volterra方程](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations)
+
+$$
+\begin{aligned} {\frac{dx}{dt}}&= \alpha x- \beta xy，\\ {\frac{dy}{dt}}&= \delta xy- \gamma y ，\end {aligned}
+$$
+
+##  竞争性Lotka–Volterra方程
+
+该形式类似于用于掠食的[Lotka–Volterra方程](https://en.wikipedia.org/wiki/Lotka–Volterra_equations)，因为每个物种的方程都有一个自我相互作用项，一个与其他物种相互作用的项。在捕食方程中，基本种群模型是[指数的](https://en.wikipedia.org/wiki/Exponential_function)。对于竞争方程，[逻辑方程](https://en.wikipedia.org/wiki/Logistic_function#Logistic_differential_equation)是基础。
+
+[生态学家](https://en.wikipedia.org/wiki/Ecology)使用的逻辑人口模型通常采用以下形式：{dx_{1} \over dt}=r_{1}x_{1} \left（1- \left({x_ {1} + \alpha _ {{12}} x_{2} \over K_{1} }
+
+这里*X*是人口的在给定时间的大小，*- [R*是固有人均增长率，并且*ķ*是[承载能力](https://en.wikipedia.org/wiki/Carrying_capacity)。
+
+
+
+
+
+[scholarpedia](http://www.scholarpedia.org/article/Predator-prey_model#Lotka-Volterra_Model)
+
++ **Jacob-Monod Model**
+
+  > Another approach to modeling the interaction between prey and predators was developed to account as well for organisms (such as bacteria) taking up nutrients. There is a limited uptake rate that such organisms are capable of, and the next model accounts for limited uptake rates.There is a limited uptake rate that such organisms are capable of, and the next model accounts for limited uptake rates. 
+
+  用于细菌吸取营养
+
+#  别忘了
+
++ 
