@@ -115,6 +115,8 @@ $$
 
   用于细菌吸取营养
 
-#  别忘了
+#  生态学
 
-+ 
++ [百度文档]([生态学第01章 生态位 - 百度文库 (baidu.com)](https://wenku.baidu.com/view/0ca16b26cf2f0066f5335a8102d276a2012960f0.html))
+
+  <img src=".\Resource\WeChat1.png" style="zoom: 200%;" />
