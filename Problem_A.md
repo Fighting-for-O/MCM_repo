@@ -61,7 +61,7 @@ $\dot{x}_1 = r_1x_1(1-\frac{x_1}{N_1}-\sigma_1\frac{x_2}{N_2})$
 | Number of fungus                 | $N$          |
 | Moisture Tolearnce               | $MT$         |
 | Moisture Niche Width             | $W_m$        |
-|                                  |              |
+| Competitive Ranking              | $CR$         |
 |                                  |              |
 |                                  |              |
 
@@ -91,6 +91,8 @@ $k_{ij} = f(M,T,MT_i,GR_i,MT_j,GR_j)$
 
 $DR_i = f_1(T)f_2(M) = c_1Te^{-\frac{c_2}{T}}\times (c_3M^2+c_4M+c_5)$
 
+Moisture Tolearnce: measuerd by $W_m$ and $CR$
+
 $GR_i,MT_i$ originate from $DR_i$
 
 #### Reference
@@ -106,6 +108,16 @@ $V_{\max} = k_{cat}[E_0]e^{-k_{incat}t}$
 $k_{cat} = \frac{k_bT}{h}e^{-\frac{\Delta G_{cat}}{RT}}$
 
 $k_{inact} = \frac{k_bT}{h}e^{-\frac{\Delta G_{inact}}{RT}}$
+
+### Data Need
+
+| Independent Varables | Dependent Varables |
+| -------------------- | ------------------ |
+| $M,T$                | $r_i$              |
+| $M,T$                | $DR$               |
+| $M,T$                | $GR$               |
+| $CR$                 |                    |
+| $W_m$                |                    |
 
 
 
