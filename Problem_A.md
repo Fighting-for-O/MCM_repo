@@ -52,7 +52,7 @@ $\dot{x}_1 = r_1x_1(1-\frac{x_1}{N_1}-\sigma_1\frac{x_2}{N_2})$
 ### Parameters
 
 | Name                             | Symbol       |
-| -------------------------------- | ------------ |
+| -------------------------------- | :----------- |
 | Growth rate                      | $GR$         |
 | Decomposition rate of whole area | $DR_{whole}$ |
 | Decomposition rate of a fungus   | $DR$         |
@@ -60,7 +60,7 @@ $\dot{x}_1 = r_1x_1(1-\frac{x_1}{N_1}-\sigma_1\frac{x_2}{N_2})$
 | Temperature                      | $T$          |
 | Number of fungus                 | $N$          |
 | Moisture Tolearnce               | $MT$         |
-|                                  |              |
+| Moisture Niche Width             | $W_m$        |
 |                                  |              |
 |                                  |              |
 |                                  |              |
@@ -93,11 +93,11 @@ $DR_i = f_1(T)f_2(M) = c_1Te^{-\frac{c_2}{T}}\times (c_3M^2+c_4M+c_5)$
 
 $GR_i,MT_i$ originate from $DR_i$
 
+#### Reference
+
 https://www.researchgate.net/profile/Charles_Lee14/publication/5991613_The_effect_of_temperature_on_enzyme_activity_New_insights_and_their_implications/links/00b49530d220e32e07000000.pdf
 
 http://lawr.ucdavis.edu/classes/ssc219/biogeo/decomp.htm
-
-#### Question
 
 #### Choices
 
