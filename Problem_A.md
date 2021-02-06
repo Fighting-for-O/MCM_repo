@@ -93,6 +93,20 @@ $DR_i = f(M,T)$
 
 $GR_i,MT_i$ originate from $DR_i$
 
+#### Question
+
+$DR_i = f(M,T)$
+
+#### Choices
+
+$V_{\max} = k_{cat}[E_0]e^{-k_{incat}t}$
+
+$k_{cat} = \frac{k_bT}{h}e^{-\frac{\Delta G_{cat}}{RT}}$
+
+$k_{inact} = \frac{k_bT}{h}e^{-\frac{\Delta G_{inact}}{RT}}$
+
+
+
 ### Names
 
 Fungus(single),fungi(multiple)
