@@ -99,7 +99,7 @@ $$
 
 该形式类似于用于掠食的[Lotka–Volterra方程](https://en.wikipedia.org/wiki/Lotka–Volterra_equations)，因为每个物种的方程都有一个自我相互作用项，一个与其他物种相互作用的项。在捕食方程中，基本种群模型是[指数的](https://en.wikipedia.org/wiki/Exponential_function)。对于竞争方程，[逻辑方程](https://en.wikipedia.org/wiki/Logistic_function#Logistic_differential_equation)是基础。
 
-[生态学家](https://en.wikipedia.org/wiki/Ecology)使用的逻辑人口模型通常采用以下形式：{dx_{1} \over dt}=r_{1}x_{1} \left（1- \left({x_ {1} + \alpha _ {{12}} x_{2} \over K_{1} }
+[生态学家](https://en.wikipedia.org/wiki/Ecology)使用的逻辑人口模型通常采用以下形式：${dx_{1} \over dt}=r_{1}x_{1} \left（1- \left({x_ {1} + \alpha _ {{12}} x_{2} \over K_{1} }$
 
 这里*X*是人口的在给定时间的大小，*- [R*是固有人均增长率，并且*ķ*是[承载能力](https://en.wikipedia.org/wiki/Carrying_capacity)。
 
@@ -115,6 +115,8 @@ $$
 
   用于细菌吸取营养
 
-#  别忘了
+#  生态学
 
-+ 
++ [百度文档]([生态学第01章 生态位 - 百度文库 (baidu.com)](https://wenku.baidu.com/view/0ca16b26cf2f0066f5335a8102d276a2012960f0.html))
+
+  <img src=".\Resource\WeChat1.png" style="zoom: 200%;" />
