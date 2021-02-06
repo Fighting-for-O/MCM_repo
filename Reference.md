@@ -2,9 +2,13 @@
 
 
 
+[木材腐烂的担子菌之间的种间战斗相互作用](https://academic.oup.com/femsec/article/31/3/185/461131?login=true)
 
+[相互作用会影响姬松菇针叶腐朽真菌组合的菌丝生长和酶谱](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185171)
 
+[环境波动有利于物种共存并增加木材腐烂真菌群落的分解](https://link.springer.com/article/10.1007/s00442-006-0406-3)
 
+[瑞士森林中枯木腐烂的动态](https://link.springer.com/article/10.1186/s40663-020-00248-x)
 
 ##  生长与生长机理
 
