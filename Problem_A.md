@@ -89,13 +89,15 @@ $k_{ij} = f(M,T,MT_i,GR_i,MT_j,GR_j)$
 
 #### DR Models
 
-$DR_i = f(M,T)$
+$DR_i = f_1(T)f_2(M) = c_1Te^{-\frac{c_2}{T}}\times (c_3M^2+c_4M+c_5)$
 
 $GR_i,MT_i$ originate from $DR_i$
 
-#### Question
+https://www.researchgate.net/profile/Charles_Lee14/publication/5991613_The_effect_of_temperature_on_enzyme_activity_New_insights_and_their_implications/links/00b49530d220e32e07000000.pdf
 
-$DR_i = f(M,T)$
+http://lawr.ucdavis.edu/classes/ssc219/biogeo/decomp.htm
+
+#### Question
 
 #### Choices
 
@@ -110,6 +112,10 @@ $k_{inact} = \frac{k_bT}{h}e^{-\frac{\Delta G_{inact}}{RT}}$
 ### Names
 
 Fungus(single),fungi(multiple)
+
+
+
+土壤温度和含水量是影响分解速率的重要因素。在有利的湿度条件下，温度升高导致分解率呈指数增长（Q10约为2）。在恒温条件下，土壤含水量对分解速率的影响呈抛物线型，在中等含水量条件下分解速率最大。高含水量限制了土壤气体交换，从而导致低氧浓度和潜在的厌氧条件。在低水分条件下，水分的缺乏限制了微生物的代谢；然而，许多微生物可以保持活性，使土壤水势（在-3.0MPa时）比植物（在-1.5MPa时）低得多。除了温度和湿度条件外，极端土壤酸度（pH值<4或>9）也可能严重降低分解速率。
 
 
 
