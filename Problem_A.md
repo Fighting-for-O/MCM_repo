@@ -89,15 +89,15 @@ $k_{ij} = f(M,T,MT_i,GR_i,MT_j,GR_j)$
 
 #### DR Models
 
-$DR_i = f_1(T)f_2(M) = \frac{c_1Te^{-\frac{c_2}{T}}}{1+e^{c_3(\frac{1}{T_{eq}}-\frac{1}{T})}}\times (c_3(M-W_m)^2+c_4)$
+$DR_i = GR_i/\gamma_{o}$
 
 $MT$: Moisture Tolearnce: measuerd by $W_m$ and $CR$
 
-$W_m = $
+$W_m = f(GR_i)$
 
-$CR = $
+$CR = k_{ij}$
 
-$GR = $
+$GR_i = \frac{c_1Te^{-\frac{c_2}{T}}}{1+e^{c_3(\frac{1}{T_{eq}}-\frac{1}{T})}}\times (c_4M^2+c_5M+c_6)$
 
 #### Reference
 
