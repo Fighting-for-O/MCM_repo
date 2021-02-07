@@ -41,15 +41,20 @@ Fig 4❓
 ```mermaid
 graph LR
 
-A[DRwhole] -->B()
+DRwhole -->DRi
+					 DRi --> gamma0 -->Wm
+					 DRi --> GRi --> M
+  			           GRi-->T
+DRwhole -->Ni
+	         Ni --> ri --> M
+	         				ri --> T
+	         Ni --> Nimax
+	         Ni --> Kij -->K(competitive ranking)
 
-  A --> C{条件a}
 
-  C -->|a=1| D[结果1]
 
-  C -->|a=2| E[结果2]
+ 
 
-  F[横向流程图]
 ```
 
 
