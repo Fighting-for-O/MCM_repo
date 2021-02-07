@@ -51,19 +51,19 @@ $\dot{x}_1 = r_1x_1(1-\frac{x_1}{N_1}-\sigma_1\frac{x_2}{N_2})$
 
 ### Parameters
 
-| Name                             | Symbol       |
-| -------------------------------- | :----------- |
-| Growth rate                      | $GR$         |
-| Decomposition rate of whole area | $DR_{whole}$ |
-| Decomposition rate of a fungus   | $DR$         |
-| Moisture                         | $M$          |
-| Temperature                      | $T$          |
-| Number of fungus                 | $N$          |
-| Moisture Tolearnce               | $MT$         |
-| Moisture Niche Width             | $W_m$        |
-| Competitive Ranking              | $CR$         |
-|                                  |              |
-|                                  |              |
+| Name                                                      | Symbol |
+| --------------------------------------------------------- | :----- |
+| Growth rate                                               | $GR$   |
+| Total decomposition rate of fungi in a fixed patch of lan | $TDR$  |
+| Decomposition rate of a fungus                            | $DR$   |
+| Moisture                                                  | $M$    |
+| Temperature                                               | $T$    |
+| Population size of a specie of fungi                      | $N$    |
+| Moisture Tolearnce                                        | $MT$   |
+| Moisture Niche Width                                      | $W_m$  |
+| Competitive Ranking                                       | $CR$   |
+|                                                           |        |
+|                                                           |        |
 
 ### Models
 
