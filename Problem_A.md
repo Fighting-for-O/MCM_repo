@@ -120,8 +120,8 @@ $k_{inact} = \frac{k_bT}{h}e^{-\frac{\Delta G_{inact}}{RT}}$
 | $M,T$                | $r_i$              |
 | $M,T$                | $DR$               |
 | $M,T$                | $GR$               |
-| $CR$                 |                    |
-| $W_m$                |                    |
+| $CR$                 | k                  |
+| $W_m$                | k                  |
 
 
 
