@@ -50,15 +50,29 @@ $N_{i\max}$ 只与环境资源有关
 
 ### 介绍$DR_i = f(MT,GR_i)$
 
+$i:(f,W_{mi})$
+
+$DR_i = GR_i/\gamma_{s}$
+
+$\gamma_s\propto\frac{1}{W_m}$
+
+拟合
+
 已有$GR_i=f_{i}(M,T)$
 
 已有$DR_i=g_{i}(T)$
 
-$i:(f,W_{mi})$
+
+
+
+
+$W_m \uparrow,GR_i\downarrow$
 
 
 
 ## Take interactions between communities into consideration
+
+
 
 ## General analysis of model
 
