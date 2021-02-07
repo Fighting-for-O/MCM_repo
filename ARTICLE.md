@@ -1,46 +1,94 @@
-# INTRODUCTION #
+# Introduction
+
+## Background✅
+
+Fig1 真菌图（手绘，淘宝）
+
+Fig2 真菌在碳循环中作用图（电脑制作，自己做）
+
+## Restatement of the problem✅
+
+Finish
+
+## Our work
+
+### DRF model✅
+
+### DRFD model (Decompositon rate of fungal communities considering diversity)❓
+
+Fig3 流程图（电脑制作，自己做）2人，手绘+电脑
+
+# Assumptions❓
+
+# Notations✅❓
+
+## Notations
+
+Table 1 Notations
+
+# DRF model
+
+导入：
+
+- 把DRwhole分解为DRi Ni
+- 仅考虑温度和湿度以及种类建立basic model
+- 考虑interaction 建立DRFI model
+- 对xxx进行改变，分析模型的特性
+- 将模型应用在xxxx的环境中
+
+## Basic model
+
+### 介绍$\sum DR_iN_i$
+
+### 介绍$N_i$
+
+$\dot{N}_i = r_iN_i(1-\frac{N_i}{N_{i\max}})$
+
+$r_i = r_0(2\pi\sigma_M\sigma_T\sqrt{1-\rho^2})^{-1}\exp[\frac{1}{2\pi\sigma_M\sigma_T\sqrt{(1-\rho^2)}}(\frac{(M-M_0)^2}{\sigma_M^2}+\frac{(T-T_0)^2}{\sigma_T^2}-\frac{2\rho(M-M_0)(T-T_0)}{\sigma_T\sigma_M})]$
+
+$N_{i\max}$ 只与环境资源有关
+
+### 介绍$DR_i = f(MT,GR_i)$
+
+$i:(f,W_{mi})$
+
+$DR_i = GR_i/\gamma_{s}$
+
+$\gamma_s\propto\frac{1}{W_m}$
+
+拟合
+
+已有$GR_i=f_{i}(M,T)$
+
+已有$DR_i=g_{i}(T)$
 
 
 
-## 1.1 BACKGROUND
 
-1,2STATEMENT
 
-1.3 OUR WORK
+$W_m \uparrow,GR_i\downarrow$
 
-DRFmodel
 
-DRFD model
 
-decompositon rate of fungal communities considering diversity
+## Take interactions between communities into consideration
 
-2 假设
 
-3 符号和名词解释
 
-4.drf model
+## General analysis of model
 
-4.1 basic model
+## Implenentation of model 
 
-4.2  take inter into consideration
+# DRFD model
 
-4.3 general analysis
+# Sensitivity Analysis
 
-4.4 model 应用
+# Strength & Weakness
 
-5. drfdmodel
+# Conclusion
 
-5.1
+# 2 pages
 
-6 Sensitivity
-
-7.Stren   weakness
-
-8.conclusion
-
-9.2page
-
-10.references
+# References
 
 
 
