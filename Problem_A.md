@@ -60,7 +60,7 @@ $\dot{x}_1 = r_1x_1(1-\frac{x_1}{N_1}-\sigma_1\frac{x_2}{N_2})$
 | Temperature                                               | $T$    |
 | Population size of a specie of fungi                      | $N$    |
 | Moisture Tolearnce                                        | $MT$   |
-| Moisture Niche Width                                      | $W_m$  |
+| Moisture Niche Width                                      | $MW$   |
 | Competitive Ranking                                       | $CR$   |
 |                                                           |        |
 |                                                           |        |
